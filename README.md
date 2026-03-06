@@ -6,7 +6,7 @@ The website showcases hotel rooms, provides hotel information, includes a contac
 
 This React version demonstrates how to structure a project using **components**, **props**, **local images**, and **event handling**.
 
----
+![luxury png](https://github.com/user-attachments/assets/cb782fe7-da8a-4dec-b50e-811854f5f935)
 
 ## Features
 - Responsive navigation bar with smooth scrolling
