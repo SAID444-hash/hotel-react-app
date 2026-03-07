@@ -118,8 +118,7 @@ npm start
 
 ## Screenshots
 
-### Home Page
-<img width="1832" height="325" alt="home png" src="https://github.com/user-attachments/assets/cdae7d40-0b8f-48db-be9d-a40a78064048" />
+### Hero
 
 ### Rooms Section
 
