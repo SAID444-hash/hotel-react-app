@@ -120,8 +120,7 @@ npm start
 ## Screenshots
 
 ### Home Page
-![Home Page](src/images/screenshots/home.png)
-
+![Home Section](src/images/screenshot-home.png)
 ### Rooms Section
 
 ![Rooms Section](src/images/screenshot-rooms.png)
