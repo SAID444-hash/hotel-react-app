@@ -169,20 +169,6 @@ This project demonstrates your ability to:
 * Implement **React Router for multi-page navigation**
 * Handle **local images and forms**
 
-It’s perfect for showcasing in presentations, portfolios, or interviews.
 
----
-
-```
-
----
-
-✅ With this README, you can:
-
-- Explain **what the project does**  
-- Show **features** clearly  
-- Discuss **technical implementation**  
-- Use **screenshots** to guide viewers  
-- Impress in presentations or GitHub portfolio  
 
 
