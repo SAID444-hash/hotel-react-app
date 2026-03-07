@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Perfect! I can help you create a **full, professional README** for your **React + Bootstrap hotel website**. This will serve as both a **project documentation** and a **presentation guide**, so you can confidently explain your project. I’ll include a **description, features, folder structure, screenshots section, and key technical points**.
 
 ---
@@ -120,7 +119,8 @@ npm start
 ## Screenshots
 
 ### Home Page
-![Home Page](src/images/screenshots/home.png)
+
+![Home Page](src/images/screenshot-home.png)
 
 ### Rooms Section
 
@@ -169,107 +169,20 @@ This project demonstrates your ability to:
 * Implement **React Router for multi-page navigation**
 * Handle **local images and forms**
 
-
-
-
-
-
-
-
-
-
-
-=======
-# Luxury Stay Hotel - React Version
-
-## Project Description
-Luxury Stay Hotel is a responsive hotel website built with **React**.  
-The website showcases hotel rooms, provides hotel information, includes a contact form, and has interactive buttons.  
-
-This React version demonstrates how to structure a project using **components**, **props**, **local images**, and **event handling**.
-
-![luxury png](https://github.com/user-attachments/assets/cb782fe7-da8a-4dec-b50e-811854f5f935)
-
-## Features
-- Responsive navigation bar with smooth scrolling
-- Hero section with hotel background image
-- Rooms section displaying Deluxe, Executive, and Presidential Suites
-- About section describing the hotel
-- Contact form for inquiries
-- "Book Now" button with interactive booking confirmation
-- Fully responsive for desktop and mobile screens
+It’s perfect for showcasing in presentations, portfolios, or interviews.
 
 ---
 
-## Technologies Used
-- React.js
-- HTML5
-- CSS3
-- JavaScript
+```
 
 ---
 
-## Project Structure
+✅ With this README, you can:
+
+- Explain **what the project does**  
+- Show **features** clearly  
+- Discuss **technical implementation**  
+- Use **screenshots** to guide viewers  
+- Impress in presentations or GitHub portfolio  
 
 
-hotel-react-app
-│
-├── public
-│ └── index.html
-├── src
-│ ├── components
-│ │ ├── Navbar.js
-│ │ ├── Hero.js
-│ │ ├── Rooms.js
-│ │ ├── About.js
-│ │ └── Contact.js
-│ ├── images
-│ │ ├── hero.jpg
-│ │ ├── room1.jpg
-│ │ ├── room2.jpg
-│ │ └── room3.jpg
-│ ├── App.js
-│ └── style.css
-├── package.json
-├── package-lock.json
-└── README.md
-
-
----
-
-## How to Run the Project
-
-1. Clone or download the repository
-2. Open the terminal in the project folder
-3. Install dependencies:
-
-```bash
-npm install
-
-Start the development server:
-
-npm start
-
-Open http://localhost:3000     Your site is live at https://said444-hash.github.io/hotel-react-app/
- in your browser
-
-Future Improvements
-
-Add a real booking system connected to a backend
-
-Display room prices and availability
-
-Form validation and email notifications
-
-Convert the booking confirmation alert to a modal popup
-
-Add an image gallery slider for hotel rooms
-
-Author
-
-Developed by: HASSAN M SAID
-
-License
-
-This project is for educational purposes.
->>>>>>> b479cadb21207e8dcf7f0b60713c4cb39ea5c3c8
