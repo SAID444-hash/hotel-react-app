@@ -119,7 +119,8 @@ npm start
 ## Screenshots
 
 ### Hero
-![hero](https://github.com/user-attachments/assets/2a946467-4cae-479c-9ecc-59d0a7cd61b8)
+![hero](https://github.com/user-attachments/assets/4d2f5452-2af7-4777-8d27-4c888df477f4)
+
 
 
 ### Rooms Section
